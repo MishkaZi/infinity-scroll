@@ -1,2 +1,2 @@
 # infinity-scroll
-An infinite scrolls of pictures, using Unsplash API.
+An infinite scrolling of pictures, using Unsplash API.
